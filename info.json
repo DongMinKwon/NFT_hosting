@@ -1,11 +1,10 @@
 {
   "name": "food #1",
   "description": "im so hungry",
-  "image": "1",
+  "image": "https://coruscating-stardust-7cb719.netlify.app/food.jpg",
   "attributes": [
     {
-      "name" : "Gyukatsu"
+      "name": "Gyukatsu"
     }
   ]
-
 }
